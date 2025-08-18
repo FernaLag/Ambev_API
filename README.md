@@ -1,4 +1,8 @@
-## Read the DOCKER-README.MD for instructions to run the API
+## 1. Read the DOCKER-README.MD for instructions to run the API
+
+## 2. Use your IDE Test Runner to run the Unit Tests
+
+---
 
 `READ CAREFULLY`
 
