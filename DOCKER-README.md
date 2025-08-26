@@ -38,9 +38,14 @@ For Windows:
 .\docker-run.ps1
 ```
 
-For Linux and Mac:
+For Mac:
 ```bash
 ./docker-run.sh
+```
+
+For Linux:
+```bash
+chmod +x docker-run.sh
 ```
 
 #### Run Specific Containers
